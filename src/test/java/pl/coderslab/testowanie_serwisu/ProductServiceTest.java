@@ -72,7 +72,7 @@ class ProductServiceTest {
         Product product2 = new Product("orange", "abc", true);
         product1.setId(1L);
         doNothing().when(repository).deleteById(1L);
-        List<Product> products = repository.findAll();
+        List<Product> products = service.listAllProducts();
         assertEquals(products, List.of());
         assertDoesNotThrow(() -> service.deleteProduct(1L));
 

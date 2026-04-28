@@ -1,0 +1,23 @@
+{
+  "student": {
+    "firstName": "Jan",
+    "lastName": "Kowalski",
+    "age": 20,
+    "averageGrade": 4.5,
+    "subjects": [
+      "Matematyka",
+      "Fizyka",
+      "Chemia"
+    ],
+    "parents": {
+      "father": {
+        "firstName": "Piotr",
+        "lastName": "Kowalski"
+      },
+      "mother": {
+        "firstName": "Anna",
+        "lastName": "Kowalska"
+      }
+    }
+  }
+}

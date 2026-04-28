@@ -1,0 +1,23 @@
+{
+  "books": [
+    {
+      "title": "Sztuka wojny",
+      "author": "Sun Tzu",
+      "year": 1970,
+      "price": 10.99
+    },
+    {
+      "title": "Czysty kod",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "price": 16.50
+    },
+    {
+      "title": "Programista samouk",
+      "author": "Andrew Hunt",
+      "year": 1999,
+      "price": 12.99
+    }
+  ]
+}
+
